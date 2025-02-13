@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256601292068",
+    "project_id": "poultryhisab-9ce95",
+    "storage_bucket": "poultryhisab-9ce95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256601292068:android:7d24f2f3a129fa4a3087b1",
+        "android_client_info": {
+          "package_name": "com.example.poultry_hisab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArILAqtGPgqoHdzXP0jF_8H69iCeCro4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
